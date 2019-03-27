@@ -1,0 +1,9 @@
+Main-Class: com.albaycan.fatexecapp.ExecPackageManager
+
+
+
+
+
+
+
+
